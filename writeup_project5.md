@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/car_not_car.png
 [image2]: ./output_images/HOG_example.png
 [image3]: ./output_images/determine_scales.png
-[image4]: ./output_images/sliding\ window\ search\ 01.png
-[image5]: ./output_images/sliding\ window\ search\ 02.png
+[image4]: ./output_images/sliding_window_search01.png
+[image5]: ./output_images/sliding_window_search02.png
 [image6]: ./output_images/heatmap_frame1.png
 [image7]: ./output_images/heatmap_frame2.png
 [image8]: ./output_images/heatmap_frame3.png
