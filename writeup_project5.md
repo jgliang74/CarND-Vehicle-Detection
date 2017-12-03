@@ -10,14 +10,20 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./examples/car_not_car.png
-[image2]: ./examples/HOG_example.jpg
-[image3]: ./examples/determin scales.png
-[image4]: ./examples/sliding_window.jpg
-[image5]: ./examples/bboxes_and_heat.png
-[image6]: ./examples/labels_map.png
-[image7]: ./examples/output_bboxes.png
-[video1]: ./project_video.mp4
+[image1]: ./output_images/car_not_car.png
+[image2]: ./output_images/HOG_example.png
+[image3]: ./output_images/determine_scales.png
+[image4]: ./output_images/sliding window search 01.png
+[image5]: ./output_images/sliding window search 02.png
+[image6]: ./output_images/heatmap_frame1.png
+[image7]: ./output_images/heatmap_frame2.png
+[image8]: ./output_images/heatmap_frame3.png
+[image9]: ./output_images/heatmap_frame4.png
+[image10]: ./output_images/heatmap_frame5.png
+[image11]: ./output_images/heatmap_frame6.png
+[image12]: ./output_images/integrated_heatmap.png
+[image13]: ./output_images/output_bboxes.png
+[video1]: ./project_video_output.mp4
 
 ---
 ##### Histogram of Oriented Gradients (HOG)
